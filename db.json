@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "email": "tksahu123@dekshala.com",
+      "password": "$2a$10$zVpXUfo.7PEXUVry6oEvGeEEAZNjcvDMjV5XZCe4glYz09.UQvk4a",
+      "phone": "8839819475",
+      "id": 2
+    },
+    {
+      "email": "tksahu1234@gmail.com",
+      "password": "$2a$10$oAFmSDk3qA0dRZ5CRHjNm.BxK.wbahBvu7VHrNEz025.3v.0iRIJe",
+      "phone": "8839819475",
+      "id": 3
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Tushar Sahu",
+      "dob": "2022-06-10",
+      "state": "",
+      "age": "21",
+      "pincode": "491441",
+      "email": "tksahu1234@gmail.com",
+      "id": 1
+    }
+  ]
+}

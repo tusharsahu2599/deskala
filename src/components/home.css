@@ -1,0 +1,78 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #000;
+    margin-bottom: 20px;
+}
+th,td{
+    border: 2px solid rgb(2, 1, 1);
+    padding: 8px;
+}
+th{
+    background-color: #4CAF50;
+    color: white;
+}
+tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+tr:hover{
+    background-color: #ddd;
+}
+.btn-grp{
+    margin-top: 30px;
+    float: right;
+}
+.btn-grp button{
+    margin-left: 10px;
+}
+.btn-grp button:first-child{
+    margin-left: 0;
+}
+.btn-grp button:last-child{
+    margin-right: 0;
+}
+.btn-grp button:hover{
+    background-color: #4CAF50;
+    color: #fff;
+}
+.btn-grp button:active{
+    background-color: #4CAF50;
+    color: #fff;
+}
+.btn-grp button:focus{
+    background-color: #4CAF50;
+    color: #fff;
+}
+.btn-grp button:disabled{
+    background-color: #4CAF50;
+    color: #fff;
+}
+.btn-grp button:disabled:hover{
+    background-color: #4CAF50;
+    color: #fff;
+}
+.btn-grp button:disabled:active{
+    background-color: #4CAF50;
+    color: #fff;
+}
+.btn-grp button:disabled:focus{
+    background-color: #4CAF50;
+    color: #fff;
+}
+.btn-grp button:disabled:hover{
+    background-color: #4CAF50;
+    color: #fff;
+}
+.btn-grp button:disabled:active{
+    background-color: #4CAF50;
+    color: #fff;
+}
+.btn-grp button:disabled:focus{
+    background-color: #4CAF50;
+    color: #fff;
+}
+.btn-grp button:disabled:hover{
+    background-color: #4CAF50;
+    color: #fff;
+}
